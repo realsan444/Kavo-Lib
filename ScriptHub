@@ -64,11 +64,11 @@ local themeStyles = {
         ElementColor = Color3.fromRGB(20, 20, 20)
     },
     GoldTheme = {
-        SchemeColor = Color3.fromRGB(0, 34, 255),
+        SchemeColor = Color3.fromRGB202, 180, 12),
         Background = Color3.fromRGB(202, 180, 12),
-        Header = Color3.fromRGB(255, 0, 4),
+        Header = Color3.fromRGB(202, 180, 12),
         TextColor = Color3.fromRGB(0,0,0),
-        ElementColor = Color3.fromRGB(20, 20, 20)
+        ElementColor = Color3.fromRGB(202, 180, 12)
     },
     LightTheme = {
         SchemeColor = Color3.fromRGB(150, 150, 150),
